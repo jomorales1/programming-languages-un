@@ -80,7 +80,6 @@ namespace mt_application {
 
     class Program {
         static void Main(string[] args) {
-            string file_path = "C:/Users/Rubén Manrique/Documents/Universidad/Séptimo Semestre/Lenguajes de programación/Github/programming-languages-un/mt_binary_division/mt_application/mt_description.txt";
             Console.WriteLine("Turing Machine for Binary Division of 3-Digit Numbers");
             Console.WriteLine("Ingrese el valor de a:");
             string a = Console.ReadLine();
@@ -96,7 +95,6 @@ namespace mt_application {
                 Console.WriteLine("No se permite la división por cero.");
                 System.Environment.Exit(1);
             }
-            string[] numbers = {"111", "110", "101", "100", "011", "010", "001"};
             string[] lines = File.ReadAllLines("../../../mt_description.txt");
             string[] n_s = lines[0].Split(' ');
             int n_states = Int32.Parse(n_s[0]);
