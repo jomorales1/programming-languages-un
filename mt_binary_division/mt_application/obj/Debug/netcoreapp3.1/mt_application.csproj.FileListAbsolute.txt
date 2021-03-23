@@ -1,0 +1,13 @@
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\bin\Debug\netcoreapp3.1\mt_application.exe
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\bin\Debug\netcoreapp3.1\mt_application.deps.json
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\bin\Debug\netcoreapp3.1\mt_application.runtimeconfig.json
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\bin\Debug\netcoreapp3.1\mt_application.runtimeconfig.dev.json
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\bin\Debug\netcoreapp3.1\mt_application.dll
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\bin\Debug\netcoreapp3.1\mt_application.pdb
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\obj\Debug\netcoreapp3.1\mt_application.csprojAssemblyReference.cache
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\obj\Debug\netcoreapp3.1\mt_application.AssemblyInfoInputs.cache
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\obj\Debug\netcoreapp3.1\mt_application.AssemblyInfo.cs
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\obj\Debug\netcoreapp3.1\mt_application.csproj.CoreCompileInputs.cache
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\obj\Debug\netcoreapp3.1\mt_application.dll
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\obj\Debug\netcoreapp3.1\mt_application.pdb
+C:\Users\Rubén Manrique\Documents\Universidad\Séptimo Semestre\Lenguajes de programación\Github\programming-languages-un\mt_binary_division\mt_application\obj\Debug\netcoreapp3.1\mt_application.genruntimeconfig.cache
