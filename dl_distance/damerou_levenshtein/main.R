@@ -52,13 +52,15 @@ language_distances <- function() {
 main <- function() {
   distances <- language_distances()
   n = dim(distances)[1] - 1
-  elements <- array(0L, dim = c(n * (n - 1)))
+  elements <- array(0L, dim = c(n * (n-1)))
   index = 1
-  for (i in 2:n) {
-    for (j in 2:n) {
+  for (i in 2:(n+1)) {
+    for (j in 2:(n+1)) {
       value <- strtoi(distances[i, j], base = 0L)
-      elements[index] <- value
-      index <- index + 1
+      if (value != 0) {
+        elements[index] <- value
+        index <- index + 1
+      }
     }
   }
   png('images/histogram.png', width = 600, height = 600)
