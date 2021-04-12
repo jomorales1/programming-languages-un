@@ -61,9 +61,11 @@ main <- function() {
       index <- index + 1
     }
   }
+  png('images/histogram.png', width = 600, height = 600)
   hist(elements, xlab = 'Distance')
   print(c('Distancia promedio: ', mean(elements)))
   print(c('Varianza', var(elements)))
+  dev.off()
 }
 
 main()
